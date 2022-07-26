@@ -1,6 +1,6 @@
-# Fetch-GitHub-Repositories---API---Full_Project
-Fetch GitHub Repositories - API - Full_Project
+# TicTacGame - Full Reactjs Project
 ## Live Preview :  https://ozidan13.github.io/Fetch_GitHub_Repositories_API_Full_Project/
+
 # <a href="https://www.linkedin.com/in/ozidan/" target="_blank">Osama Zinhom</a>
 <div align="center">
     <img src="GitHub.png" height="200" />
@@ -15,6 +15,12 @@ Fetch GitHub Repositories - API - Full_Project
 
 <h1 align="center">About</h1>
 :wave: Hi there, I'm Osama Zinhom, a Front-End Developer - UI/UX Designer. I enjoy writing about technical things
+
+
+# Images 
+![1](https://user-images.githubusercontent.com/80807929/181097015-b99ff9bd-9484-4725-aa5f-7c80638023f8.PNG)
+
+
 
 ## Available Scripts
 
