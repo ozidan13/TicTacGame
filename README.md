@@ -46,6 +46,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+<h1 align="center">:wave: About Me :wave:</h1>
+
 # Osama Zinhom, 21 years old, Studies MIS
 
 ### Occupation: Front-End Developer - & Graphic & UI/UX Design.
