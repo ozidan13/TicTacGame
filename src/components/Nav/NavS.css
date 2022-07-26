@@ -1,0 +1,28 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 253, 253);
+    padding: 15px;
+}
+
+.nav h3 {
+    cursor: pointer;
+}
+
+.nav .nav-links {
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.nav .nav-links li .li-link {
+    color: rgb(31, 31, 31);
+    text-decoration: none;
+}
+
+.nav .nav-links li .li-link:hover {
+    color: rgb(31, 189, 128);
+}
