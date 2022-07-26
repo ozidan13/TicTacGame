@@ -17,8 +17,26 @@
 :wave: Hi there, I'm Osama Zinhom, a Front-End Developer - UI/UX Designer. I enjoy writing about technical things
 
 
-# Images 
+# Preview
+Running The Project :
+https://user-images.githubusercontent.com/80807929/181097543-e18a9a74-f89a-41d6-bacd-212ef7915f09.mp4
+
+
+# Documentation
+The Project Divided To 3 Main Routes (Quick Start - Select Player - About )
+1- The First is A About Page that Contain A brief about this Project
 ![1](https://user-images.githubusercontent.com/80807929/181097015-b99ff9bd-9484-4725-aa5f-7c80638023f8.PNG)
+2- The Second is A Select Player Page that Contain Two Screens to get players data 
+First Player :
+![2](https://user-images.githubusercontent.com/80807929/181097383-cbaedcb3-3fe0-4cef-bca2-da29c9977f84.PNG)
+Second Player  :
+![3](https://user-images.githubusercontent.com/80807929/181097395-0ad1a418-bed7-44f5-8b36-f32e9132413f.PNG)
+3- The Third is a Quick Start Page, if you user want to play a quick game 
+![4](https://user-images.githubusercontent.com/80807929/181097399-8e603022-5041-4ab6-9f7f-4a14bc919b14.PNG)
+
+
+
+
 
 
 
