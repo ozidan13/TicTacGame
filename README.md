@@ -1,5 +1,4 @@
 # TicTacGame - Full Reactjs Project
-## Live Preview :  https://ozidan13.github.io/Fetch_GitHub_Repositories_API_Full_Project/
 
 # <a href="https://www.linkedin.com/in/ozidan/" target="_blank">Osama Zinhom</a>
 <div align="center">
@@ -85,5 +84,6 @@ I have powerful computer science knowledge and am eager to learn more concepts a
 
 
 <h1 align="center">:wave: Thanks For Reading :wave:</h1>
+## Live Preview :  https://ozidan13.github.io/TicTacGame/
 
 
