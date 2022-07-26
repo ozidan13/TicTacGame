@@ -22,7 +22,8 @@ Running The Project :
 https://user-images.githubusercontent.com/80807929/181099492-0b9db6e5-a423-412e-872a-1150247b2850.mp4
 
 # Documentation
-The Project Divided To 3 Main Routes (Quick Start - Select Player - About )
+The Project is Divided To 3 Main Routes
+Routes are : (Quick Start - Select Player - About )
 1- The First is A About Page that Contain A brief about this Project
 ![1](https://user-images.githubusercontent.com/80807929/181097015-b99ff9bd-9484-4725-aa5f-7c80638023f8.PNG)
 2- The Second is A Select Player Page that Contain Two Screens to get players data 
